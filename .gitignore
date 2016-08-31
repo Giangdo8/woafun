@@ -20,4 +20,6 @@ wp-includes/
 wp-content/themes/twentysixteen
 /*.php
 /.settings
+/.buildpath
+/.project
 
